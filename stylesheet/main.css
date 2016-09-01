@@ -47,6 +47,7 @@ video {
 .photo:hover {
     background-color: #4CAF50; 
     color: white;
+    max-width:110%;
 }
 
 .nav {
