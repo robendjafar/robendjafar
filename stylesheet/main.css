@@ -39,6 +39,16 @@ video {
   min-width: 75%;
 }
 
+.photo {
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+}
+
+.photo:hover {
+    background-color: #4CAF50; 
+    color: white;
+}
+
 .nav {
   background-color: #FFEE00;
   max-width: 25%;
