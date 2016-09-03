@@ -55,11 +55,10 @@ div {
     padding-left: 20px;
 }
 .subject{
-          Background-color:silver;
-         max-width:25%;
-         min-width:300px;
+          Background-color:peach;
+          text-align:justify;
           text-align:left;
-          diplay:flex;
+          
           
 }
 
